@@ -1,4 +1,4 @@
-[![pt-pt](https://img.shields.io/badge/lang-pt--pt-red.svg)]([https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-pt.md](https://github.com/Zapobyss/saveeditor_ua/edit/main/README.pt-PT.md))
+[![pt-pt](https://img.shields.io/badge/lang-pt--pt-red.svg)](https://github.com/Zapobyss/saveeditor_ua/edit/main/README.pt-PT.md)
 
 # saveeditor_ua
 Save editor for the 3DS's Mii Plaza DLC minigame: Ultimate Angler / StreetPass Fishing.
