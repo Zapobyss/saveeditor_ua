@@ -1,7 +1,7 @@
 # saveeditor_ua
-Tool to edit save files from Ultimate Angler / StreetPass Fishing
+Save editor for the 3DS's Mii Plaza DLC minigame: Ultimate Angler / StreetPass Fishing.
 
-![screenshot1](https://github.com/Zapo3DS/saveeditor_ua/assets/159708642/fa86ca25-feab-45b0-a672-d267780fc292)
+![screenshot1](https://github.com/Zapobyss/saveeditor_ua/assets/159708642/fa86ca25-feab-45b0-a672-d267780fc292)
 
 ## What this tool can currently edit
 Currently, the save editor is just a Proof of Concept, it can edit some of the data in the Progress Report:
@@ -10,8 +10,8 @@ Currently, the save editor is just a Proof of Concept, it can edit some of the d
 - Trips Taken
 - Treasure Chests Found
 
-![screenshot2_a](https://github.com/Zapo3DS/saveeditor_ua/assets/159708642/3db37213-d599-4df6-b58c-9cc7f5aeef30)
-![screenshot2_b](https://github.com/Zapo3DS/saveeditor_ua/assets/159708642/c70a61ea-75c7-426c-a8e9-ab4fcdcc9b03)
+![screenshot2_a](https://github.com/Zapobyss/saveeditor_ua/assets/159708642/3db37213-d599-4df6-b58c-9cc7f5aeef30)
+![screenshot2_b](https://github.com/Zapobyss/saveeditor_ua/assets/159708642/c70a61ea-75c7-426c-a8e9-ab4fcdcc9b03)
 
 (I could not find the offsets for 'Group Catches Made' and 'Rod Types Collected')
 
