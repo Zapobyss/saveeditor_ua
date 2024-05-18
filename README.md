@@ -18,7 +18,7 @@ Currently, the save editor is just a Proof of Concept, it can edit some of the d
 (I could not find the offsets for 'Group Catches Made' and 'Rod Types Collected')
 
 # How to use
-1. Dump the ExtData from the StreetPass Mii Plaza using any save tool, such as JKSV
+1. Dump the ExtData from the StreetPass Mii Plaza using any save tool, such as JKSM
 2. Locate the mgFsh0.dat save file
 3. Open it with the save editor
 4. Edit the values to your heart's content
