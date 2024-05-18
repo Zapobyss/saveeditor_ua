@@ -16,7 +16,7 @@ De momento, esta ferramenta permite-nos editar alguns valores do Progresso do jo
 (De momento, não encontrei os endereços para 'Capturas com ajuda' e 'Tipos de canas coletadas')
 
 # Como usar
-1. Utiliza um aplicativo homebrew que te permita exportar e importar dados de gravação, como o JKSV, para exportar os dados adicionais (ExtData) da Praça Mii de StreetPass
+1. Utiliza um aplicativo homebrew que te permita exportar e importar dados de gravação, como o JKSM, para exportar os dados adicionais (ExtData) da Praça Mii de StreetPass
 2. Procura os dados de gravação do jogo; é um ficheiro chamado mgFsh0.dat
 3. Abre-o com o editor
 4. Edita os valores
